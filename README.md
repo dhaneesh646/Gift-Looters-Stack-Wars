@@ -40,7 +40,7 @@ Gift Loot Battle is an exciting multiplayer and single-player game where players
 - AI-controlled navigation for single-player mode  
 
 ## Play Now
-[🔗 GitHub Pages Link (if hosted)](your-link-here)
+[🔗 GitHub Pages Link (if hosted)](https://dhaneesh646.github.io/Gift-Looters-Stack-Wars/)
 
 ## License
 This project is open-source. Feel free to contribute or modify!
